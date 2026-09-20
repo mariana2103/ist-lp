@@ -85,6 +85,12 @@ Makefile
 The tests cover every predicate above plus full solves of the three
 provided puzzles and an extra 8×8 one.
 
+## Original submission
+
+[`original-submission/`](original-submission/TendasEArvores.pl) keeps the solver as it
+was first written (it passes 23 of the 33 tests). The version in `src/` is the
+rewritten, fixed one.
+
 ---
 
 *Code comments are written in Portuguese, without accents, as the assignment required.*
